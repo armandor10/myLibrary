@@ -1,0 +1,17 @@
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\DALTest.dll.config
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\DALTest.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\DALTest.pdb
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\DAL.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\EntityFramework.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\MySql.Data.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\MySql.Web.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\DAL.pdb
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\EntityFramework.xml
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\obj\Debug\DALTest.csprojResolveAssemblyReference.cache
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\obj\Debug\DALTest.dll
+c:\Users\arman\documents\visual studio 2015\Projects\DAL\DALTest\obj\Debug\DALTest.pdb

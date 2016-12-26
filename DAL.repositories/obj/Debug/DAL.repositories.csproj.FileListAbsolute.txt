@@ -1,0 +1,15 @@
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\DAL.repositories.dll.config
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\DAL.repositories.dll
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\DAL.repositories.pdb
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\EntityFramework.dll
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\Model.dll
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\MySql.Data.dll
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\MySql.Web.dll
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\Model.pdb
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\EntityFramework.xml
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\obj\Debug\DAL.repositories.csprojResolveAssemblyReference.cache
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\obj\Debug\DAL.repositories.dll
+C:\Users\arman\documents\visual studio 2015\Projects\DAL\DAL.repositories\obj\Debug\DAL.repositories.pdb
